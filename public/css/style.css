@@ -1,0 +1,27 @@
+body{
+background-image: url(/img/Fondo\ azul.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+h1{ font-size:300%;
+    text-align: center;
+    background-color: aliceblue;
+    color:blue
+    
+ 
+}
+h2{
+    font-size: xx-large;
+    color: rgb(122, 16, 215);
+    margin:20px;
+}
+h3{ color: rgb(0, 0, 0);
+    font-size:x-large;
+    margin-top: 100px;
+   margin: 50px;
+    list-style: none;
+}
+a{
+  
+    color: rgb(7, 71, 181);
+}
